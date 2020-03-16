@@ -70,8 +70,8 @@ def all_supplies_in_holidays(holiday_hash)
 
 
       puts "  #{final_holiday_array}: #{final_supplies_array}"       
-end
-end
+    end
+  end
 end
 
 def all_holidays_with_bbq(holiday_hash)
