@@ -62,7 +62,7 @@ def all_supplies_in_holidays(holiday_hash)
   # etc.
   
   holiday_hash.each do |key, value|
-    key.to_s.split
+    key.to_s
   end
   holiday_hash
 
